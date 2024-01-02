@@ -18,6 +18,6 @@
             "Ucscode\\UssElement\\": "src/"
         }
     },
-    "minimum-stability": "RC",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
